@@ -1,7 +1,7 @@
 import pandas as pd
 import matplotlib.pyplot as plt
 
-df = pd.read_csv(r"C:\Users\Lenovo\Downloads\dataset\Big_Black_Money_Dataset.csv")
+df = pd.read_csv('data/Big_Black_Money_Dataset.csv')
 
 print("Dados carregados com sucesso!")
 print(df.head())
