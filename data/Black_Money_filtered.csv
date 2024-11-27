@@ -1,0 +1,136 @@
+Transaction ID,Country,Amount (USD),Transaction Type,Date of Transaction,Person Involved,Industry,Destination Country,Reported by Authority,Source of Money,Money Laundering Risk Score,Shell Companies Involved,Financial Institution,Tax Haven Country
+TX0000000001,Brazil,3267530.479376824,Offshore Transfer,2013-01-01 00:00:00,Person_1101,Construction,USA,True,Illegal,6,1,Bank_40,Singapore
+TX0000000070,Brazil,2053475.3677998185,Cryptocurrency,2013-01-03 21:00:00,Person_5888,Luxury Goods,Switzerland,True,Illegal,9,1,Bank_424,Singapore
+TX0000000110,Brazil,4904774.250429274,Property Purchase,2013-01-05 13:00:00,Person_4795,Real Estate,South Africa,True,Illegal,7,9,Bank_160,Luxembourg
+TX0000000256,Brazil,194277.77958137597,Cryptocurrency,2013-01-11 15:00:00,Person_8590,Luxury Goods,South Africa,True,Illegal,6,5,Bank_318,Switzerland
+TX0000000321,Brazil,3715655.395992576,Property Purchase,2013-01-14 08:00:00,Person_6632,Construction,China,True,Illegal,6,0,Bank_172,Switzerland
+TX0000000681,Brazil,1699055.2341534172,Property Purchase,2013-01-29 08:00:00,Person_3291,Luxury Goods,UK,True,Illegal,4,2,Bank_17,Bahamas
+TX0000000845,Brazil,3090059.379898215,Offshore Transfer,2013-02-05 04:00:00,Person_2980,Casinos,Brazil,True,Illegal,3,7,Bank_486,Switzerland
+TX0000000855,Brazil,2628501.248219872,Cash Withdrawal,2013-02-05 14:00:00,Person_7230,Oil & Gas,USA,True,Illegal,3,4,Bank_30,Cayman Islands
+TX0000000879,Brazil,1514709.0125245024,Stocks Transfer,2013-02-06 14:00:00,Person_1271,Casinos,Switzerland,True,Illegal,4,8,Bank_88,Cayman Islands
+TX0000000955,Brazil,2135044.892259744,Property Purchase,2013-02-09 18:00:00,Person_1137,Luxury Goods,Russia,True,Illegal,8,9,Bank_235,Luxembourg
+TX0000001029,Brazil,2573258.349569871,Cryptocurrency,2013-02-12 20:00:00,Person_617,Casinos,China,True,Illegal,5,4,Bank_351,Singapore
+TX0000001058,Brazil,1091460.6349424217,Cryptocurrency,2013-02-14 01:00:00,Person_853,Finance,Switzerland,True,Illegal,1,6,Bank_478,Panama
+TX0000001095,Brazil,3086873.258482245,Offshore Transfer,2013-02-15 14:00:00,Person_7030,Finance,UK,True,Illegal,2,3,Bank_401,Panama
+TX0000001165,Brazil,4370076.794214045,Offshore Transfer,2013-02-18 12:00:00,Person_8575,Finance,UK,True,Illegal,7,6,Bank_81,Luxembourg
+TX0000001185,Brazil,2114922.7941847914,Property Purchase,2013-02-19 08:00:00,Person_589,Arms Trade,South Africa,True,Illegal,3,8,Bank_259,Bahamas
+TX0000001192,Brazil,3020221.059427856,Offshore Transfer,2013-02-19 15:00:00,Person_459,Arms Trade,India,True,Illegal,7,0,Bank_82,Switzerland
+TX0000001257,Brazil,4690055.614810206,Stocks Transfer,2013-02-22 08:00:00,Person_3525,Construction,Singapore,True,Illegal,4,0,Bank_121,Luxembourg
+TX0000001302,Brazil,1670684.042203942,Property Purchase,2013-02-24 05:00:00,Person_3970,Arms Trade,Brazil,True,Illegal,8,4,Bank_325,Panama
+TX0000001316,Brazil,2446742.105823557,Stocks Transfer,2013-02-24 19:00:00,Person_154,Real Estate,South Africa,True,Illegal,7,1,Bank_256,Bahamas
+TX0000001467,Brazil,1973921.8139154692,Offshore Transfer,2013-03-03 02:00:00,Person_2977,Luxury Goods,UK,True,Illegal,6,7,Bank_165,Switzerland
+TX0000001481,Brazil,4590819.954974393,Stocks Transfer,2013-03-03 16:00:00,Person_2310,Oil & Gas,Russia,True,Illegal,2,9,Bank_106,Singapore
+TX0000001546,Brazil,3151191.969408824,Property Purchase,2013-03-06 09:00:00,Person_3666,Real Estate,South Africa,True,Illegal,4,9,Bank_240,Luxembourg
+TX0000001600,Brazil,2779819.1489038183,Property Purchase,2013-03-08 15:00:00,Person_8249,Oil & Gas,South Africa,True,Illegal,7,2,Bank_310,Panama
+TX0000001720,Brazil,261580.71641720997,Stocks Transfer,2013-03-13 15:00:00,Person_7910,Construction,India,True,Illegal,2,6,Bank_154,Cayman Islands
+TX0000001731,Brazil,4677672.887601668,Cash Withdrawal,2013-03-14 02:00:00,Person_8063,Arms Trade,Switzerland,True,Illegal,10,5,Bank_70,Switzerland
+TX0000001779,Brazil,2121648.651548728,Property Purchase,2013-03-16 02:00:00,Person_4876,Casinos,South Africa,True,Illegal,10,2,Bank_146,Switzerland
+TX0000001905,Brazil,3147376.859061666,Stocks Transfer,2013-03-21 08:00:00,Person_8855,Arms Trade,Russia,True,Illegal,8,2,Bank_180,Panama
+TX0000001922,Brazil,2256345.1591224764,Property Purchase,2013-03-22 01:00:00,Person_5036,Casinos,USA,True,Illegal,2,3,Bank_260,Singapore
+TX0000001969,Brazil,2290556.162531044,Cryptocurrency,2013-03-24 00:00:00,Person_3670,Real Estate,Switzerland,True,Illegal,7,1,Bank_489,Singapore
+TX0000002022,Brazil,4928928.704953398,Offshore Transfer,2013-03-26 05:00:00,Person_4192,Finance,UAE,True,Illegal,9,7,Bank_39,Switzerland
+TX0000002052,Brazil,4808348.646586494,Cash Withdrawal,2013-03-27 11:00:00,Person_2040,Casinos,UAE,True,Illegal,9,3,Bank_389,Switzerland
+TX0000002207,Brazil,4160371.0330673214,Offshore Transfer,2013-04-02 22:00:00,Person_2776,Construction,China,True,Illegal,10,4,Bank_164,Cayman Islands
+TX0000002209,Brazil,1381746.7042019474,Property Purchase,2013-04-03 00:00:00,Person_4096,Arms Trade,UK,True,Illegal,8,8,Bank_408,Panama
+TX0000002280,Brazil,414265.57195798674,Offshore Transfer,2013-04-05 23:00:00,Person_8154,Casinos,Brazil,True,Illegal,10,5,Bank_190,Switzerland
+TX0000002377,Brazil,960020.6673485268,Offshore Transfer,2013-04-10 00:00:00,Person_4915,Finance,Switzerland,True,Illegal,9,8,Bank_407,Panama
+TX0000002580,Brazil,3484763.815285444,Offshore Transfer,2013-04-18 11:00:00,Person_9827,Oil & Gas,Brazil,True,Illegal,10,2,Bank_150,Switzerland
+TX0000002651,Brazil,3701254.554867198,Cash Withdrawal,2013-04-21 10:00:00,Person_2443,Casinos,UAE,True,Illegal,2,2,Bank_411,Cayman Islands
+TX0000002700,Brazil,1214033.6102323085,Offshore Transfer,2013-04-23 11:00:00,Person_850,Oil & Gas,Singapore,True,Illegal,5,6,Bank_298,Cayman Islands
+TX0000002753,Brazil,2660554.456077627,Offshore Transfer,2013-04-25 16:00:00,Person_8861,Casinos,India,True,Illegal,6,1,Bank_331,Switzerland
+TX0000002758,Brazil,3363085.6948173954,Stocks Transfer,2013-04-25 21:00:00,Person_9738,Casinos,India,True,Illegal,10,4,Bank_50,Cayman Islands
+TX0000002773,Brazil,3129568.6248771613,Cash Withdrawal,2013-04-26 12:00:00,Person_6284,Finance,China,True,Illegal,9,5,Bank_492,Luxembourg
+TX0000002784,Brazil,439506.7346716677,Property Purchase,2013-04-26 23:00:00,Person_8108,Finance,UAE,True,Illegal,9,5,Bank_250,Bahamas
+TX0000002878,Brazil,4104308.16083542,Stocks Transfer,2013-04-30 21:00:00,Person_8411,Arms Trade,USA,True,Illegal,4,1,Bank_195,Cayman Islands
+TX0000003032,Brazil,1881602.0152708453,Cash Withdrawal,2013-05-07 07:00:00,Person_5212,Oil & Gas,Switzerland,True,Illegal,2,5,Bank_157,Luxembourg
+TX0000003186,Brazil,1024634.112213218,Property Purchase,2013-05-13 17:00:00,Person_4181,Construction,Russia,True,Illegal,10,4,Bank_130,Singapore
+TX0000003207,Brazil,4131807.214737688,Stocks Transfer,2013-05-14 14:00:00,Person_6435,Arms Trade,Russia,True,Illegal,9,0,Bank_456,Luxembourg
+TX0000003259,Brazil,4402368.204121944,Offshore Transfer,2013-05-16 18:00:00,Person_9047,Arms Trade,South Africa,True,Illegal,10,0,Bank_240,Singapore
+TX0000003287,Brazil,4715417.3661035765,Cryptocurrency,2013-05-17 22:00:00,Person_7891,Luxury Goods,Russia,True,Illegal,4,2,Bank_289,Switzerland
+TX0000003291,Brazil,4496910.971870683,Offshore Transfer,2013-05-18 02:00:00,Person_9195,Real Estate,Russia,True,Illegal,4,1,Bank_135,Panama
+TX0000003372,Brazil,2438489.7421666323,Stocks Transfer,2013-05-21 11:00:00,Person_3755,Finance,South Africa,True,Illegal,6,1,Bank_334,Singapore
+TX0000003450,Brazil,778015.6113966702,Offshore Transfer,2013-05-24 17:00:00,Person_4189,Finance,UAE,True,Illegal,3,9,Bank_108,Bahamas
+TX0000003508,Brazil,4761344.404844533,Cryptocurrency,2013-05-27 03:00:00,Person_6991,Real Estate,Switzerland,True,Illegal,10,6,Bank_11,Bahamas
+TX0000003616,Brazil,4543969.661974874,Cash Withdrawal,2013-05-31 15:00:00,Person_6450,Luxury Goods,USA,True,Illegal,9,8,Bank_324,Luxembourg
+TX0000003753,Brazil,4540999.197034504,Stocks Transfer,2013-06-06 08:00:00,Person_5931,Real Estate,Singapore,True,Illegal,7,0,Bank_374,Bahamas
+TX0000003798,Brazil,1975863.7056267543,Cryptocurrency,2013-06-08 05:00:00,Person_6576,Luxury Goods,Singapore,True,Illegal,2,8,Bank_455,Panama
+TX0000003812,Brazil,1465047.0312920993,Stocks Transfer,2013-06-08 19:00:00,Person_1107,Casinos,UK,True,Illegal,8,5,Bank_246,Panama
+TX0000003893,Brazil,1649713.6318789136,Cash Withdrawal,2013-06-12 04:00:00,Person_6810,Real Estate,China,True,Illegal,3,6,Bank_182,Luxembourg
+TX0000004008,Brazil,1126593.1077642653,Offshore Transfer,2013-06-16 23:00:00,Person_7263,Casinos,UAE,True,Illegal,9,8,Bank_220,Panama
+TX0000004055,Brazil,3969759.240684285,Cryptocurrency,2013-06-18 22:00:00,Person_958,Finance,USA,True,Illegal,8,0,Bank_75,Cayman Islands
+TX0000004094,Brazil,3875447.688130671,Cash Withdrawal,2013-06-20 13:00:00,Person_415,Luxury Goods,Russia,True,Illegal,2,5,Bank_193,Luxembourg
+TX0000004151,Brazil,4675124.619488734,Cryptocurrency,2013-06-22 22:00:00,Person_9441,Casinos,India,True,Illegal,5,4,Bank_328,Singapore
+TX0000004276,Brazil,2827538.102906587,Offshore Transfer,2013-06-28 03:00:00,Person_8855,Finance,UK,True,Illegal,2,2,Bank_369,Cayman Islands
+TX0000004370,Brazil,3402911.446010733,Cryptocurrency,2013-07-02 01:00:00,Person_940,Oil & Gas,Switzerland,True,Illegal,6,5,Bank_293,Panama
+TX0000004400,Brazil,3177235.542501163,Offshore Transfer,2013-07-03 07:00:00,Person_4616,Luxury Goods,Switzerland,True,Illegal,3,7,Bank_87,Bahamas
+TX0000004499,Brazil,1478248.8476475845,Cash Withdrawal,2013-07-07 10:00:00,Person_7901,Luxury Goods,UAE,True,Illegal,8,3,Bank_266,Panama
+TX0000004661,Brazil,4048947.500308671,Stocks Transfer,2013-07-14 04:00:00,Person_5639,Oil & Gas,Switzerland,True,Illegal,10,5,Bank_403,Panama
+TX0000004667,Brazil,3452278.3886510115,Cash Withdrawal,2013-07-14 10:00:00,Person_8989,Luxury Goods,Russia,True,Illegal,2,2,Bank_319,Bahamas
+TX0000004704,Brazil,2583080.461469409,Stocks Transfer,2013-07-15 23:00:00,Person_4563,Luxury Goods,UK,True,Illegal,5,3,Bank_24,Bahamas
+TX0000004897,Brazil,3071935.574676091,Offshore Transfer,2013-07-24 00:00:00,Person_2279,Luxury Goods,Singapore,True,Illegal,10,8,Bank_361,Luxembourg
+TX0000004984,Brazil,2791881.0336900065,Offshore Transfer,2013-07-27 15:00:00,Person_5006,Arms Trade,Brazil,True,Illegal,7,0,Bank_272,Luxembourg
+TX0000005292,Brazil,4746806.401929723,Cash Withdrawal,2013-08-09 11:00:00,Person_8419,Finance,South Africa,True,Illegal,1,3,Bank_455,Luxembourg
+TX0000005357,Brazil,1837546.406857487,Offshore Transfer,2013-08-12 04:00:00,Person_6714,Arms Trade,South Africa,True,Illegal,3,4,Bank_371,Luxembourg
+TX0000005373,Brazil,2257945.76856992,Cryptocurrency,2013-08-12 20:00:00,Person_3970,Finance,USA,True,Illegal,9,7,Bank_250,Singapore
+TX0000005688,Brazil,4882018.233030962,Cash Withdrawal,2013-08-25 23:00:00,Person_9686,Real Estate,India,True,Illegal,10,6,Bank_346,Panama
+TX0000005752,Brazil,249054.1218993149,Property Purchase,2013-08-28 15:00:00,Person_1577,Arms Trade,South Africa,True,Illegal,5,7,Bank_45,Cayman Islands
+TX0000005762,Brazil,3819032.3335873056,Cash Withdrawal,2013-08-29 01:00:00,Person_6239,Arms Trade,China,True,Illegal,9,7,Bank_369,Panama
+TX0000005832,Brazil,2948784.299429537,Property Purchase,2013-08-31 23:00:00,Person_7017,Luxury Goods,China,True,Illegal,10,1,Bank_47,Singapore
+TX0000005914,Brazil,2457135.281322722,Cash Withdrawal,2013-09-04 09:00:00,Person_4129,Oil & Gas,UAE,True,Illegal,4,8,Bank_419,Bahamas
+TX0000005931,Brazil,2355812.094358676,Property Purchase,2013-09-05 02:00:00,Person_6944,Oil & Gas,Singapore,True,Illegal,2,7,Bank_156,Luxembourg
+TX0000006001,Brazil,2186045.4069615887,Cash Withdrawal,2013-09-08 00:00:00,Person_1761,Luxury Goods,UAE,True,Illegal,8,7,Bank_296,Cayman Islands
+TX0000006282,Brazil,3138042.389806794,Cash Withdrawal,2013-09-19 17:00:00,Person_6210,Arms Trade,UK,True,Illegal,7,0,Bank_160,Panama
+TX0000006301,Brazil,3035031.0887902053,Cryptocurrency,2013-09-20 12:00:00,Person_419,Arms Trade,South Africa,True,Illegal,6,7,Bank_253,Luxembourg
+TX0000006345,Brazil,4434999.488206841,Cryptocurrency,2013-09-22 08:00:00,Person_2757,Casinos,Singapore,True,Illegal,3,4,Bank_64,Luxembourg
+TX0000006357,Brazil,331157.2606460669,Property Purchase,2013-09-22 20:00:00,Person_9023,Oil & Gas,India,True,Illegal,2,0,Bank_247,Panama
+TX0000006373,Brazil,526217.0064946143,Offshore Transfer,2013-09-23 12:00:00,Person_9510,Luxury Goods,Russia,True,Illegal,6,5,Bank_448,Panama
+TX0000006439,Brazil,2187846.915448314,Offshore Transfer,2013-09-26 06:00:00,Person_9731,Oil & Gas,Brazil,True,Illegal,5,5,Bank_220,Singapore
+TX0000006526,Brazil,4610308.577486847,Offshore Transfer,2013-09-29 21:00:00,Person_6256,Arms Trade,India,True,Illegal,7,0,Bank_466,Bahamas
+TX0000006537,Brazil,662278.7267178858,Offshore Transfer,2013-09-30 08:00:00,Person_8477,Construction,India,True,Illegal,7,8,Bank_279,Singapore
+TX0000006843,Brazil,594223.7901931945,Stocks Transfer,2013-10-13 02:00:00,Person_5808,Construction,Switzerland,True,Illegal,4,9,Bank_175,Cayman Islands
+TX0000006878,Brazil,4033164.756945807,Offshore Transfer,2013-10-14 13:00:00,Person_7259,Real Estate,China,True,Illegal,6,6,Bank_162,Bahamas
+TX0000007041,Brazil,861379.7922685546,Property Purchase,2013-10-21 08:00:00,Person_3140,Real Estate,USA,True,Illegal,6,9,Bank_32,Luxembourg
+TX0000007096,Brazil,1956651.789675098,Offshore Transfer,2013-10-23 15:00:00,Person_2225,Construction,Switzerland,True,Illegal,8,3,Bank_254,Bahamas
+TX0000007166,Brazil,4572511.003285568,Cryptocurrency,2013-10-26 13:00:00,Person_2607,Arms Trade,Singapore,True,Illegal,9,8,Bank_168,Luxembourg
+TX0000007220,Brazil,3185287.878910961,Offshore Transfer,2013-10-28 19:00:00,Person_3259,Casinos,UK,True,Illegal,6,1,Bank_428,Cayman Islands
+TX0000007252,Brazil,4697242.892394516,Cryptocurrency,2013-10-30 03:00:00,Person_4283,Construction,Russia,True,Illegal,2,1,Bank_101,Bahamas
+TX0000007263,Brazil,1794767.018418765,Offshore Transfer,2013-10-30 14:00:00,Person_9633,Oil & Gas,USA,True,Illegal,5,1,Bank_14,Singapore
+TX0000007277,Brazil,862083.7867575928,Stocks Transfer,2013-10-31 04:00:00,Person_4711,Construction,Brazil,True,Illegal,10,9,Bank_170,Bahamas
+TX0000007329,Brazil,1027302.447331942,Stocks Transfer,2013-11-02 08:00:00,Person_8739,Finance,Singapore,True,Illegal,7,7,Bank_64,Luxembourg
+TX0000007690,Brazil,157948.6322486609,Property Purchase,2013-11-17 09:00:00,Person_2012,Arms Trade,Switzerland,True,Illegal,4,0,Bank_351,Panama
+TX0000007968,Brazil,3854160.857837653,Offshore Transfer,2013-11-28 23:00:00,Person_2871,Arms Trade,Singapore,True,Illegal,9,9,Bank_94,Luxembourg
+TX0000008043,Brazil,1256857.6233095129,Property Purchase,2013-12-02 02:00:00,Person_6985,Oil & Gas,USA,True,Illegal,10,3,Bank_311,Panama
+TX0000008109,Brazil,3026303.572350429,Cryptocurrency,2013-12-04 20:00:00,Person_1388,Oil & Gas,UAE,True,Illegal,3,5,Bank_258,Luxembourg
+TX0000008125,Brazil,4216693.585383467,Stocks Transfer,2013-12-05 12:00:00,Person_709,Real Estate,USA,True,Illegal,9,6,Bank_217,Singapore
+TX0000008153,Brazil,1720608.5456515378,Cash Withdrawal,2013-12-06 16:00:00,Person_3616,Luxury Goods,UK,True,Illegal,1,6,Bank_138,Bahamas
+TX0000008162,Brazil,1482210.6802313027,Offshore Transfer,2013-12-07 01:00:00,Person_7219,Arms Trade,USA,True,Illegal,2,6,Bank_315,Switzerland
+TX0000008217,Brazil,3900056.082423213,Cash Withdrawal,2013-12-09 08:00:00,Person_1158,Real Estate,South Africa,True,Illegal,3,1,Bank_253,Bahamas
+TX0000008279,Brazil,4913544.485916596,Property Purchase,2013-12-11 22:00:00,Person_5284,Oil & Gas,UAE,True,Illegal,2,1,Bank_170,Switzerland
+TX0000008356,Brazil,653619.8240594858,Property Purchase,2013-12-15 03:00:00,Person_7875,Finance,UK,True,Illegal,8,7,Bank_399,Cayman Islands
+TX0000008422,Brazil,2331962.685812985,Property Purchase,2013-12-17 21:00:00,Person_5846,Arms Trade,Switzerland,True,Illegal,4,4,Bank_370,Luxembourg
+TX0000008512,Brazil,4661920.558079503,Stocks Transfer,2013-12-21 15:00:00,Person_4951,Finance,Russia,True,Illegal,7,4,Bank_173,Cayman Islands
+TX0000008626,Brazil,3015141.9619391067,Stocks Transfer,2013-12-26 09:00:00,Person_1935,Casinos,China,True,Illegal,3,6,Bank_28,Luxembourg
+TX0000008823,Brazil,1811745.3920136064,Offshore Transfer,2014-01-03 14:00:00,Person_7750,Real Estate,India,True,Illegal,1,2,Bank_67,Bahamas
+TX0000008879,Brazil,3859041.1037173546,Stocks Transfer,2014-01-05 22:00:00,Person_5613,Oil & Gas,Switzerland,True,Illegal,10,3,Bank_183,Cayman Islands
+TX0000008928,Brazil,3513904.74597364,Property Purchase,2014-01-07 23:00:00,Person_60,Luxury Goods,Switzerland,True,Illegal,7,7,Bank_100,Switzerland
+TX0000009016,Brazil,1936899.94613684,Property Purchase,2014-01-11 15:00:00,Person_953,Casinos,Brazil,True,Illegal,5,4,Bank_240,Cayman Islands
+TX0000009104,Brazil,2524432.5702217435,Stocks Transfer,2014-01-15 07:00:00,Person_4327,Luxury Goods,Russia,True,Illegal,8,8,Bank_8,Switzerland
+TX0000009163,Brazil,2945123.182504517,Cash Withdrawal,2014-01-17 18:00:00,Person_9712,Finance,UK,True,Illegal,7,0,Bank_8,Luxembourg
+TX0000009173,Brazil,4643444.089573243,Cryptocurrency,2014-01-18 04:00:00,Person_8210,Luxury Goods,USA,True,Illegal,8,9,Bank_139,Luxembourg
+TX0000009194,Brazil,1782737.7899702794,Cryptocurrency,2014-01-19 01:00:00,Person_3139,Construction,South Africa,True,Illegal,2,5,Bank_390,Cayman Islands
+TX0000009222,Brazil,4557101.502978179,Cryptocurrency,2014-01-20 05:00:00,Person_7522,Real Estate,South Africa,True,Illegal,1,9,Bank_422,Bahamas
+TX0000009229,Brazil,2137928.050160438,Cryptocurrency,2014-01-20 12:00:00,Person_9112,Luxury Goods,USA,True,Illegal,4,7,Bank_430,Cayman Islands
+TX0000009253,Brazil,15602.819235643408,Offshore Transfer,2014-01-21 12:00:00,Person_5146,Finance,Singapore,True,Illegal,1,8,Bank_77,Panama
+TX0000009322,Brazil,2400166.130313388,Cash Withdrawal,2014-01-24 09:00:00,Person_8299,Casinos,South Africa,True,Illegal,9,2,Bank_247,Panama
+TX0000009333,Brazil,1968452.0687944847,Stocks Transfer,2014-01-24 20:00:00,Person_1372,Finance,USA,True,Illegal,3,0,Bank_373,Singapore
+TX0000009383,Brazil,1389641.3036484644,Offshore Transfer,2014-01-26 22:00:00,Person_783,Casinos,UK,True,Illegal,5,2,Bank_438,Singapore
+TX0000009473,Brazil,1395848.4443350644,Stocks Transfer,2014-01-30 16:00:00,Person_5154,Luxury Goods,USA,True,Illegal,4,4,Bank_281,Luxembourg
+TX0000009497,Brazil,3369137.031060604,Cash Withdrawal,2014-01-31 16:00:00,Person_8365,Construction,Switzerland,True,Illegal,8,2,Bank_40,Bahamas
+TX0000009503,Brazil,3980584.8242533817,Cryptocurrency,2014-01-31 22:00:00,Person_4579,Casinos,Singapore,True,Illegal,7,6,Bank_369,Bahamas
+TX0000009514,Brazil,3672838.158966873,Cash Withdrawal,2014-02-01 09:00:00,Person_2688,Arms Trade,Switzerland,True,Illegal,10,3,Bank_141,Panama
+TX0000009518,Brazil,2516856.312968728,Property Purchase,2014-02-01 13:00:00,Person_9050,Arms Trade,South Africa,True,Illegal,9,8,Bank_470,Cayman Islands
+TX0000009620,Brazil,3951877.756853,Property Purchase,2014-02-05 19:00:00,Person_8666,Arms Trade,China,True,Illegal,6,0,Bank_339,Bahamas
+TX0000009630,Brazil,2648055.6164956144,Property Purchase,2014-02-06 05:00:00,Person_6438,Oil & Gas,Brazil,True,Illegal,4,4,Bank_140,Singapore
+TX0000009693,Brazil,2845399.482655618,Offshore Transfer,2014-02-08 20:00:00,Person_5549,Real Estate,India,True,Illegal,3,7,Bank_438,Singapore
+TX0000009833,Brazil,3962492.4799437337,Offshore Transfer,2014-02-14 16:00:00,Person_8838,Casinos,USA,True,Illegal,7,8,Bank_465,Singapore
+TX0000009999,Brazil,2233580.524347377,Offshore Transfer,2014-02-21 14:00:00,Person_2799,Real Estate,Russia,True,Illegal,10,5,Bank_12,Singapore
